@@ -1,0 +1,76 @@
+#outer {color: blue;}
+
+div {
+
+background-color: rgb(250, 13, 210);
+height: 30vh;
+
+}
+.div1 {border-radius: 100px;}
+#div2 {font-weight: bolder;}
+
+.divAll .null {background-color: red;}
+.divAll > .null {color: white;}
+#div1 ~ .null {border-radius: 10px;}
+#div1 + .null {border: 5px black solid;}
+
+.box {
+    background-color: rgb(0, 0, 0);
+    color: rgb(255, 255, 255);
+    display: flex;
+}
+.dropout {
+    background-color: rgb(59,26,19);
+    color: #EDB86E;
+    display: flex;
+}
+.registration {
+    background-color: rgb(0, 0, 0);
+    color: #ec9f19;
+    display: flex;
+}
+.graduation {
+    background-color:#5D3186;
+    color: #EF058C;
+    display: flex;
+}
+.heartbreak {
+    background-color: #C3CCCB;
+    color: #C12B29;
+    display: flex;
+}
+.MBDTF {
+    background-color: #EB2944;
+    color: #FFD03A;
+    display: flex;
+}
+.yeezus {
+    background-color: #FFFFFF;
+    color: rgb(0, 0, 0);
+    display: flex;
+}
+.pablo {
+    background-color: #F58B57;
+    color: #000000;
+    display: flex;
+}
+.ye {
+    background-color: rgb(34, 20, 188);
+    color: rgb(255, 255, 255);
+    display: flex;
+}
+.jesus {
+    background-color: #112136;
+    color: #A0FF61;
+    display: flex;
+}
+.donda {
+    background-color: #000000;
+    color: #ffffff;
+    display: flex;
+}
+.donda2 {
+    background-color: rgb(29, 29, 29);
+    color: rgb(255, 255, 255);
+    display: flex;
+}
